@@ -16,7 +16,7 @@ python train_ppi_okd.py --arch GAT --warmup_epoch 50 --okd_epoch 50 --logit_kd_t
 
 ## Citation
 ```bibtex
-@article{wang4261641online,
+@article{wangOnlineDistillGCN,
   title={Online Adversarial Knowledge Distillation for Graph Neural Networks},
   author={Wang, Can and Wang, Zhe and Chen, Defang and Zhou, Sheng and Feng, Yan and Chen, Chun},
   journal={Arxiv}
