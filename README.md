@@ -1,5 +1,5 @@
 # OnlineDistillGCN
-Official code of [Online Adversarial Knowledge Distillation for Graph Neural Networks](https://arxiv.org/abs/2112.13966).
+Official code of [Online Adversarial Knowledge Distillation for Graph Neural Networks](Expert Systems with Applications 2023).
 
 ## Train
 **For Citation datasets (Cora,Citeceer and Pubmed), please run following command as example:**
@@ -16,10 +16,14 @@ python train_ppi_okd.py --arch GAT --warmup_epoch 50 --okd_epoch 50 --logit_kd_t
 
 ## Citation
 ```bibtex
-@article{wangOnlineDistillGCN,
-  title={Online Adversarial Knowledge Distillation for Graph Neural Networks},
+@article{wang2024online,
+  title={Online adversarial knowledge distillation for graph neural networks},
   author={Wang, Can and Wang, Zhe and Chen, Defang and Zhou, Sheng and Feng, Yan and Chen, Chun},
-  journal={Arxiv}
+  journal={Expert Systems with Applications},
+  volume={237},
+  pages={121671},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 
