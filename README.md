@@ -1,5 +1,5 @@
 # OnlineDistillGCN
-Official code of [Online Adversarial Knowledge Distillation for Graph Neural Networks](Expert Systems with Applications 2023).
+Official code of [Online Adversarial Knowledge Distillation for Graph Neural Networks](https://www.sciencedirect.com/science/article/pii/S0957417423021735) (ESWA 2023).
 
 ## Train
 **For Citation datasets (Cora,Citeceer and Pubmed), please run following command as example:**
